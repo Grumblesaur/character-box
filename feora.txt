@@ -88,6 +88,7 @@ Favored Skills:
   Treat Disease<Degenerative>
   Repair<Clothing>
   Listen
+  Draw
 
 Primary Attributes:
   Knowledge   18%  01-18
