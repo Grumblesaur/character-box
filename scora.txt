@@ -1,12 +1,12 @@
 Scora na Heorste is a young Kvenscaska woman from the city of Leochte, born in
 886 AF to Aevnes na Vorsca and Heorst na Mals.
 
-Scora has straight dirty blonde hair, cut to shoulder length, occasionally
-hanging haphazardly over her face. Her eyes are ocean blue, accompanied by
-oft-flexed eyebrows. She has a narrow figure, and stands at 5'6". Her clothes
-are a mix of hand-me-downs from her mother and mementos from her father. In
-the colder months, she wears his wool longcoat, hemmed up to keep the mud
-from sullying it.
+Scora has straight dirty blonde hair, cut to jaw length, occasionally hanging
+haphazardly over her face. Her eyes are ocean blue, accompanied by oft-flexed
+eyebrows. She has a narrow figure, and stands at 5'6". Her clothes are a mix
+of hand-me-downs from her mother and mementos from her father. In the colder
+months, she wears his wool longcoat, hemmed up to keep the mud from sullying
+it.
 
 On the special occasion that they had spare paper and ink in their modest
 house, she would use them to draw pictures for her parents, especially
@@ -118,18 +118,18 @@ Favored skills:
   Tamper
 
 Primary Attributes:
-  Vigor      15%  01-15
-  Agility    20%  16-35
+  Agility    20%  01-20
+  Vigor      15%  21-35
   Presence   15%  36-50
 
 Secondary Attributes:
   Finesse    12%  51-62
-  Intuition  11%  62-72
-  Knowledge  12%  72-83
+  Knowledge  12%  63-74
+  Intuition  11%  75-85
 
 Tertiary Attributes:
-  Resilience  9%  84-92
-  Allure      7%  93-99
+  Resilience  9%  86-94
+  Allure      5%  95-99
   Soul        1%  100
 
 

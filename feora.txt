@@ -1,0 +1,106 @@
+Feora nArthacha is a Kvenscaskan woman from the capital city of Emelt, born in
+869 AF to Sigra na Halma and Arthach na Dorn. She currently resides in Seltol,
+west of Emelt.
+
+She has long brown hair that stretches to her mid back, that she'll tie or let
+lie as suits her mood. She stands uncommonly tall, at 5'9", and has a buxom
+sort of figure. Feora's eyes are hazel, and her face gently rounded at her
+cheeks. Her forehead has come to show slight furrows, like a timidly plowed
+field, and her smile has become rarer and less broad over time.
+
+Feora was married to a man named Torvask na Stal at the age of 26. Both had
+been members of the same guild of architects and engineers for several years.
+They had traveled together on commission from various temples and towns to
+repair monuments, shrines, and civic buildings, with a handful of other
+engineers and laborers. As they worked together, drafting restorations and
+modifications, they fell in love together.
+
+When they married, they settled in Seltol, as a hall for their guild was
+located there. No longer were they living the sweat-forged life of designing
+in the field and carrying marble and bronze alongside their teams of laborers,
+but drafting their own designs of shrines and fountains for Seltol and outlying
+towns.
+
+They never had children, though they tried. Every folk remedy and every old
+wives' tale. Prayers and offerings to Peicci. Advice from the apothecary,
+the priest, the innkeeper -- anyone at all. Nothing seemed to stick. Feora and
+Torvask both wanted children of their own, though their persistence dwindled
+as they rose to meet their thirties.
+
+Some subtle changes began to happen with Torvask. At times, his walk would be
+unsteady. His eyes and hands had trouble tracking steadily. His drafts became
+shaky and scrawled. Feora worried, though Torvask put on a brave face. His
+mind began to leave him too, becoming slow and oft-forgetful, like an aging
+grandparent. He took a leave of absence from the guild, hoping that time and
+rest would improve his condition.
+
+All the while, Feora fervently worked to keep Torvask in good health. She
+sought healers and alchemists. She invited a priest to conduct rituals to
+Chemet until she knew all the steps herself. And when these efforts availed
+nothing, she took to her engineering skills. She built a gently-sloped ramp in
+place of the steps of their house. She kept a journal of notes for Torvask, of
+things they'd both said, to help him remember.
+
+But his memories faded with his muscles. There was a day when he couldn't
+remember Feora's name. He hung onto that first phoneme, and dangled off of it
+like a hapless hiker from a cliff. Feora broke down. She was scarcely able to
+rouse herself from bed the following day.
+
+She pressed on though. Through more forgotten names and fumbling limbs. On
+worse days, Torvask would wander outside into the streets in a fugue of
+confusion. His stories would repeat, sometimes even multiple times in the same
+day. Feora had lost hope for his recovery. She hid her grief from him, even if
+he wouldn't remember anyway.
+
+To her, it was almost as if he was already dead, with his soul leaving slowly,
+leaking almost, rather than being whisked away all at once.
+
+With Torvask 35 and Feora 33, he finally passed. His soul had gone, and his
+body was still. Forlorn, Feora sought a priest for his rites and burial. She
+took her wedding shawl and brought it round her head, leaving only her hair
+and eyes visible. She kept Torvask's shawl and hung it on the wall over their
+bed.
+
+He was buried with his drafting notebook, with one page of Feora's own work
+enclosed as well -- a plan for a stained glass window depicting an infant.
+
+Feora mourned privately. Hers was not the sadness of a loved one taken in
+hate, haste, or the fury of battle, but the hollowness of a gradual undoing.
+In some ways she was somber, and in others, relieved, but only relief with
+weeds of guilt sprouting and sapping her spirit.
+
+A year has passed since, and Feora has removed her shawl, and taken Torvask's
+down from the wall. She sewed them together, with his forming the outer layer,
+and hers the inner.
+
+She is 34 now, and while the grief and sorrow remain, Feora is ready to begin
+again. To seek the gods and cleave new stone, craft new blueprints, and leave
+Seltol, with only her memories and the shawl in tow.
+
+==============================================================================
+
+Feora has a solemn air about her. Her mind wanders to fate and future in quiet
+moments. When she is upset, she will turn pensive. She speaks in gentle tones,
+as if still living in a house with an ailing lover.
+
+Favored Skills:
+  Craft<Architecture>
+  Treat Disease<Degenerative>
+  Repair<Clothing>
+  Listen
+
+Primary Attributes:
+  Knowledge   18%  01-18
+  Finesse     18%  19-36
+  Resilience  14%  37-50
+
+Secondary Attributes:
+  Intuition   13%  51-63
+  Allure      12%  64-75
+  Presence    10%  76-85
+
+Tertiary Attributes:
+  Soul         9%  86-94
+  Agility      3%  95-97
+  Vigor        3%  98-100
+
