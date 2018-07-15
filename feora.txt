@@ -83,6 +83,11 @@ Feora has a solemn air about her. Her mind wanders to fate and future in quiet
 moments. When she is upset, she will turn pensive. She speaks in gentle tones,
 as if still living in a house with an ailing lover.
 
+Favored Deities:
+  Peicci, Tapir-God of Farming, Reproduction, Birth, Rice, and Grain
+  <God of Architecture>
+  Chemet, Snake-God of Alchemy, Toxins, Poison, and Antidote
+
 Favored Skills:
   Craft<Architecture>
   Treat Disease<Degenerative>
